@@ -1,2 +1,28 @@
-# fc3dfbc5bdc798c7-cybersecurity-resource-schedul
-The fastest way to have 24/7 automated responses without touching a server. No setup fees. No learning curve.  Easy setup: invite → configure → active in under 10 minutes. 24/7 operation — runs on your server or scales to any hosting platform.  ## What's Included  - Cybersecurity Resource Scheduling And Booking — fully configured and ready to use -
+# Cybersecurity Resource Scheduling and Booking System
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00weVd12D7Eo3lm0VecZE1P)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00weVd12D7Eo3lm0VecZE1P)
+
